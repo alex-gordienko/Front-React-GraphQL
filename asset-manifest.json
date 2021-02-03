@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Front-React-GraphQL/static/css/main.4b697732.chunk.css",
+    "main.js": "/Front-React-GraphQL/static/js/main.ca877cba.chunk.js",
+    "main.js.map": "/Front-React-GraphQL/static/js/main.ca877cba.chunk.js.map",
+    "runtime-main.js": "/Front-React-GraphQL/static/js/runtime-main.8f6d103f.js",
+    "runtime-main.js.map": "/Front-React-GraphQL/static/js/runtime-main.8f6d103f.js.map",
+    "static/js/2.ea7f1086.chunk.js": "/Front-React-GraphQL/static/js/2.ea7f1086.chunk.js",
+    "static/js/2.ea7f1086.chunk.js.map": "/Front-React-GraphQL/static/js/2.ea7f1086.chunk.js.map",
+    "index.html": "/Front-React-GraphQL/index.html",
+    "precache-manifest.70e162d2c071b03a7d7130c0ddc46d37.js": "/Front-React-GraphQL/precache-manifest.70e162d2c071b03a7d7130c0ddc46d37.js",
+    "service-worker.js": "/Front-React-GraphQL/service-worker.js",
+    "static/css/main.4b697732.chunk.css.map": "/Front-React-GraphQL/static/css/main.4b697732.chunk.css.map",
+    "static/js/2.ea7f1086.chunk.js.LICENSE.txt": "/Front-React-GraphQL/static/js/2.ea7f1086.chunk.js.LICENSE.txt",
+    "static/media/Group 845.f3c3a424.svg": "/Front-React-GraphQL/static/media/Group 845.f3c3a424.svg",
+    "static/media/Group 846.f50dd28a.svg": "/Front-React-GraphQL/static/media/Group 846.f50dd28a.svg",
+    "static/media/more.38905ef7.svg": "/Front-React-GraphQL/static/media/more.38905ef7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f6d103f.js",
+    "static/js/2.ea7f1086.chunk.js",
+    "static/css/main.4b697732.chunk.css",
+    "static/js/main.ca877cba.chunk.js"
+  ]
+}
